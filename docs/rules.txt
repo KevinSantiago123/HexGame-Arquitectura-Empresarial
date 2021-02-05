@@ -1,0 +1,15 @@
+Las reglas son muy simples:
+1. Juego para 2 jugadores.
+2. Los hexagonos se pueden poner en desorden.
+3. Cada jugador tiene un turno.
+4. Cada jugador escoge su propio color.
+5. Solo se pueden marcar las baldosas desocupadas en el turno 
+correspondiente.
+6. Se debe responder una situacion en cada turno de cada jugador.
+7.1. si se responde bien gana el hexagono escogido.
+7.2. Si se responde mal, se le asigna el hexagono elegido con 
+anterioridad al oponente.
+8. Gana quien primero cree un camino de extremo a extremo del 
+color elegido.
+
+:) Buena suerte!
